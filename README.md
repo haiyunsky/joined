@@ -2,6 +2,8 @@
 
 https://signate.jp/
 
+https://app.slack.com/client/T7RSPHKK2/C0171DWCWKH
+
 https://github.com/Machine-Learning-Tokyo/EdgeAIContest3
 
 https://www.toptal.com/
