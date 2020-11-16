@@ -2,7 +2,7 @@
 
 https://signate.jp/
 
-https://app.slack.com/client/T7RSPHKK2/C0171DWCWKH
+https://app.slack.com/client/T7RSPHKK2/C0171DWCWKH  | No.33401
 
 https://github.com/Machine-Learning-Tokyo/EdgeAIContest3
 
