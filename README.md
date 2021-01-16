@@ -1,5 +1,7 @@
 # joined
 
+https://dsc.community.dev/
+
 https://signate.jp/
 
 https://app.slack.com/client/T7RSPHKK2/C0171DWCWKH  | No.33401
